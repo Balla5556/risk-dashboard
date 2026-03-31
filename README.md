@@ -50,11 +50,3 @@ The goal is to provide quick insights into asset behavior using simple financial
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
-## ScreenShots
-
-## Screenshots
-
-![Dashboard](images/dashboard.png)
-![Graph](images/graph.png)
-![Result](images/result.png)
